@@ -1,0 +1,7 @@
+blue 293 535
+red 390 535
+green 490 535
+size 100 65
+
+BLUErail 346,284 to 294,527
+
